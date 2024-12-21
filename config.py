@@ -13,7 +13,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 API_ID = int(os.environ.get("API_ID", "29587519"))
 API_HASH = os.environ.get("API_HASH", "cca7881d1921ed7b5c052a0c86d7bc2f")
 
-CHANNEL_DB = int(os.environ.get("CHANNEL_DB", "-1002001034876"))
+CHANNEL_DB = int(os.environ.get("CHANNEL_DB", "-1002480742350"))
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://kel9:kel9@cluster0.oq1zsss.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 RESTRICT = strtobool(os.environ.get("RESTRICT", "True"))
